@@ -5,5 +5,5 @@ This project focuses on the charging of street lights using walking energy and a
 This project is currently going on under the Make in India innovative setup by Government of India under the category of Information Technology and Artificial Intelligence.
 </p>
 <p align="center">
-  <img src="https://github.com/Akriti31/Intelligent-Street-Light/blob/master/img.PNG" width="350"/>
+  <img src="https://github.com/Akriti31/Intelligent-Street-Light/blob/master/img.PNG"/>
 </p>
